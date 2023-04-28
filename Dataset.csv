@@ -1,0 +1,15 @@
+﻿Umur;Pendapatan;Mahasiswa;Rating Kredit;Beli Komputer
+<=30;Tinggi;Bukan;Fair;Tidak
+<=30;Tinggi;Bukan;Excellent;Tidak
+31 - 40;Tinggi;Bukan;Fair;Ya
+>40;Sedang;Bukan;Fair;Ya
+>40;Rendah;Ya;Fair;Ya
+>40;Rendah;Ya;Excellent;Tidak
+31 - 40;Rendah;Ya;Excellent;Ya
+<=30;Sedang;Bukan;Fair;Tidak
+<=30;Rendah;Ya;Fair;Ya
+>40;Sedang;Ya;Fair;Ya
+<=30;Sedang;Ya;Excellent;Ya
+31 - 40;Sedang;Bukan;Excellent;Ya
+31 - 4-;Tinggi;Ya;Fair;Ya
+>40;Sedang;Bukan;Excellent;Tidak
